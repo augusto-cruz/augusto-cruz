@@ -15,7 +15,7 @@
 ## About me
 
 - 😄 I'm .Net Developer, passionate about technology in special .NET and always looking to learn more.
-- 🔭 I’m currently working on Sorte Online
+- 🔭 I’m currently working on <a href="https://jobs.kenoby.com/gruposorteonline" target="_blank">Sorte Online 🍀</a>
 - 🌱 I’m currently learning more about .NET in addition to good practices, Design Patterns, DevOps...
 
 <!--- 👯 I’m looking to collaborate on ...
